@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="header-text">
 			<h1>Contact Me</h1>
-			<p>Nuts! This form just check validation, doesn't send an email is just for sample.</p>
+			<p>Nuts! This form just check validation, doesn't send an email is a sample.</p>
 		</div>
 	</div>
 </section>
